@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Sun Dongwei
     - name: Date of Birth
-      value: 14th March 1879
+      value: 5th Feb 1995
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Xi'an Jiaotong University, Xi'an, China
+      year: 2023-now
       description:
         - Description 1.
         - Description 2.
