@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
-first_name: wei
-middle_name: Dong
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Dongwei
+middle_name:
 last_name: Sun
 email: sundongwi@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -40,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
