@@ -1,1 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://sundongwei.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://sundongwei.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-05-14T04:40:05+00:00</updated><id>https://sundongwei.github.io/feed.xml</id><title type="html">blank</title><subtitle>Sun Dongwei&apos;s personal academic website </subtitle><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="https://sundongwei.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog"/><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>https://sundongwei.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="https://sundongwei.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[]]></content><author><name></name></author></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://sundongwei.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://sundongwei.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-05-14T15:13:48+00:00</updated><id>https://sundongwei.github.io/feed.xml</id><title type="html">blank</title><subtitle>Sun Dongwei&apos;s personal academic website </subtitle><entry><title type="html">ProtobufConfiguration</title><link href="https://sundongwei.github.io/blog/2024/ProtobufConfig/" rel="alternate" type="text/html" title="ProtobufConfiguration"/><published>2024-05-14T11:26:00+00:00</published><updated>2024-05-14T11:26:00+00:00</updated><id>https://sundongwei.github.io/blog/2024/ProtobufConfig</id><content type="html" xml:base="https://sundongwei.github.io/blog/2024/ProtobufConfig/"><![CDATA[<p>1.<strong>依赖</strong></p> <pre><code class="language-Shell">sudo apt-get install autoconf automake libtool
+curl make g++ unzip
+</code></pre> <pre><code class="language-Shell">git clone
+https://github.com/protocolbuffers/protobuf.git
+cd protobuf
+git submodule update --init --recursive
+./autogen.sh
+</code></pre> <p>2.<strong>to build and install the C++ Protocol Buffer runtime and the Protocol Buffer compiler (protoc) execute the following:</strong></p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```Shell
+./configure --prefix=指定路径
+make
+make check
+sudo make install
+sudo ldconfig # refresh shared library cache.
+
+到此步还没有安装完毕，
+####### add protobuf lib path ######
+
+#（动态库搜索路径）程序加载运行期间查找动态链接库时指定除了系统默认路径之外的其他路径
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/protobuf/lib/ 
+
+#（静态库搜索路径）程序编译期间查找动态链接库时指定查找共享库的路径
+export LIBRARY_PATH=$LIBRARY_PATH:/usr/local/protobuf/lib/
+
+#执行程序搜索路径
+export PATH=$PATH:/usr/local/protobuf/bin/ 
+
+#c程序头文件搜索路径
+export C_INCLUDE_PATH=$C_INCLUDE_PATH:/usr/local/protobuf/include/ 
+
+#C++程序头文件搜索路径
+export CPLUS_INCLUDE_PATH=$CPLUS_INCLUDE _PATH:/usr/local/protobuf/include/ 
+
+#pkg— config 路径
+export PKG_CONFIG PATH=/usr/local/protobuf/lib/pkgconfig/
+###############################################
+```
+</code></pre></div></div> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/pro2buf1-480.webp 480w,/assets/img/pro2buf1-800.webp 800w,/assets/img/pro2buf1-1400.webp 1400w," sizes="95vw" type="image/webp"/> <img src="/assets/img/pro2buf1.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </div> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/pro2buf2-480.webp 480w,/assets/img/pro2buf2-800.webp 800w,/assets/img/pro2buf2-1400.webp 1400w," sizes="95vw" type="image/webp"/> <img src="/assets/img/pro2buf2.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </div> </div> <p>3.<strong>编译Python</strong></p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```Shell
+cd python
+python setup.py build 
+python setup.py test
+python setup.py install
+```
+
+ 验证
+
+```Shell
+python
+import google.protobuf
+```
+
+卸载
+
+```Shell
+sudo rm /usr/local/bin/protoc //执⾏⽂件
+sudo rm -rf /usr/local/include/google //头⽂件
+sudo rm -rf /usr/local/lib/libproto* //库⽂件
+```
+</code></pre></div></div>]]></content><author><name></name></author><category term="Tools_Config"/><category term="note"/><summary type="html"><![CDATA[a tools config]]></summary></entry><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="https://sundongwei.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog"/><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>https://sundongwei.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="https://sundongwei.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[]]></content><author><name></name></author></entry></feed>
