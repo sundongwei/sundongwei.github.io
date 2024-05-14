@@ -17,8 +17,10 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-<div class="align-justify">
+<div style="text-align: justify;">
 My name is Dongwei Sun(孙冬伟), a Ph.D. candidate in Computer Science and Technology at Xi'an Jiaotong University, under the supervision of Professor Xiangyong Cao. My research interests primarily focus on remote sensing image processing and multimodal machine learning.
+</div>
 
+<div style="text-align: justify;">
 Prior to joining Xi'an Jiaotong University, I obtained a Master's degree in Computational Mathematics from Northwestern Polytechnical University, as well as a Bachelor's degree from Inner Mongolia University of Technology. After obtaining my master's degree, I worked at a research institute for two years, focusing on the design and deployment of AI algorithms tailored to specific tasks and scenarios.
 </div>
