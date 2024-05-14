@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Protobuf-Configuration 
+title: ProtobufConfiguration 
 date: 2024-05-14 11:26:00
 description: a tools config 
 tags: note
