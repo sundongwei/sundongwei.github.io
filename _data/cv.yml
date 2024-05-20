@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Sun Dongwei
-    - name: Date of Birth
-      value: 5th Feb 1995
     - name: Languages
       value: Chinese, English
 
@@ -19,18 +17,20 @@
           contents:
             - Remote Sensing Processing
             - Multimodal Machine learning
-    - title: Master
+    - title: MA.Sc
       institution: Northwestern Polytechnical University, Xi'an, China
       year: 2018.09 - 2021.04
       description:
         - title: Computational Mathematics
           contents:
             - Image Segmentation
-    - title: Bachelor
+    - title: B.S
       institution: Inner Mongolia University of Technology, Inner Mongolia, China
       year: 2014.09-2018.09
       description:
         - title: Computational Mathematics
+          contents:
+            -
 
 - title: Experience
   type: time_table
