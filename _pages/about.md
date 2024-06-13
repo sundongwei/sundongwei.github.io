@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='http://en.xjtu.edu.cn/'>Xi'an Jiaotong University</a>. Xi'an, Shaanxi, P.R. China.
 
