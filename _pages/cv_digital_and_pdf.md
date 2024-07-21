@@ -5,5 +5,5 @@ title: CV
 description:
 nav: false
 nav_order: 80
-cv_pdf: sdw_cv.html
+cv_pdf: sdw_cv.pdf
 ---

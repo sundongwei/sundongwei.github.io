@@ -31,7 +31,7 @@ My name is Dongwei Sun(孙冬伟), a Ph.D. candidate in Computer Science and Tec
 </div>
 
 <div markdown="1" style="text-align: justify;">
-My research interests primarily focus on remote sensing image processing and multimodal machine learning.
+My research interests primarily focus on remote sensing/Medical image processing and multimodal machine learning.
 </div>
 
 <div markdown="1" style="text-align: justify;">

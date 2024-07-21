@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /sdw_cv.html
+permalink: /sdw_cv.pdf
 title: CV
 description:
 nav: true
