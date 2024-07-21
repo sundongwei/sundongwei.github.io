@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sundongwei.github.io/sitemap.xml
