@@ -34,10 +34,8 @@
 
     <!-- Styles -->
     
-    <link rel="shortcut icon" href="/assets/img/logoblack.png"/>
-    
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="http://0.0.0.0:4000/sdw_cv.pdf">
+    <link rel="canonical" href="https://sundongwei.github.io/sdw_CV.pdf">
     
     <!-- Dark Mode -->
     
@@ -84,7 +82,7 @@
                 <a class="nav-link" href="/publications/">Publications</a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="/sdw_cv.pdf">CV<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="/sdw_CV.pdf">CV<span class="sr-only">(current)</span></a>
               </li>
 
               <!-- Toogle theme mode -->
@@ -163,7 +161,7 @@
     
       <tr>
         <td class="p-1 pr-2 font-weight-bold"><b>Full CV</b></td>
-        <td class="p-1 pl-2 font-weight-light text">Download PDF &nbsp;  <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a></td>
+        <td class="p-1 pl-2 font-weight-light text">Download PDF &nbsp;  <a href = "https://sundongwei.github.io/sdw_CV.pdf"><i class="fas fa-file-pdf"></i></a></td>
       </tr>
     
 </table>
@@ -737,13 +735,13 @@
               1 Preprint
             </span></li>
             <li><span class="subitem">
-              3 Peer-reviewed Journal Articles
+              2 Peer-reviewed Journal Articles
             </span></li>
             <li><span class="subitem">
-              1 Book
+              0 Book
             </span></li>
             <li><span class="subitem">
-              3 Theses
+              1 Theses
             </span></li>
         </ul>
       </li>
@@ -754,7 +752,7 @@
                 Online &nbsp; <a href = "https://www.silviofanzon.com/publications/"><i class="fas fa-external-link-alt"></i></a>
               </span></li>
               <li><span class="subitem">
-                Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
+                Download &nbsp; <a href = "https://sundongwei.github.io/assets/pdf/sdw_cv.pdf"><i class="fas fa-file-pdf"></i></a>
               </span></li>
           </ul>
       </li>
@@ -1098,7 +1096,7 @@
                 Online &nbsp; <a href = "https://www.silviofanzon.com/teaching/"><i class="fas fa-external-link-alt"></i></a>
               </span></li>
               <li><span class="subitem">
-                Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
+                Download &nbsp; <a href = "https://sundongwei.github.io/assets/pdf/sdw_cv.pdf"><i class="fas fa-file-pdf"></i></a>
               </span></li>
           </ul>
       </li>
@@ -1137,7 +1135,7 @@
                 Online &nbsp; <a href = "https://www.silviofanzon.com/supervision/"><i class="fas fa-external-link-alt"></i></a>
               </span></li>
               <li><span class="subitem">
-                Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
+                Download &nbsp; <a href = "https://sundongwei.github.io/assets/pdf/sdw_cv.pdf"><i class="fas fa-file-pdf"></i></a>
               </span></li>
           </ul>
       </li>
@@ -1248,13 +1246,13 @@
 
 <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
-      <h5 class="font-italic">I have given 15 presentations, including</h5>
+      <h5 class="font-italic">I have given 12 presentations, including</h5>
         <ul class="subitems">
             <li><span class="subitem">
               12 oral presentations (11 invited)
             </span></li>
             <li><span class="subitem">
-              3 poster presentations (1 invited)
+              0 poster presentations (0 invited)
             </span></li>
         </ul>
       </li>
@@ -1265,7 +1263,7 @@
                 Online &nbsp; <a href = "https://www.silviofanzon.com/talks/"><i class="fas fa-external-link-alt"></i></a>
               </span></li>
               <li><span class="subitem">
-                Download &nbsp; <a href = "https://www.silviofanzon.com/assets/pdf/Silvio_Fanzon_CV.pdf"><i class="fas fa-file-pdf"></i></a>
+                Download &nbsp; <a href = "https://sundongwei.github.io/assets/pdf/sdw_cv.pdf"><i class="fas fa-file-pdf"></i></a>
               </span></li>
           </ul>
       </li>
@@ -1276,7 +1274,6 @@
               
               </div>
           </article>
-
         </div>
 
     </div>
@@ -1291,14 +1288,27 @@
 
 
     <!-- Both Sticky and fixed footer -->
+<!--    -->
+<!--    <footer class="fixed-bottom text-center">-->
+<!--      <div class="container mt-0" style="font-size: 0.82rem;">-->
+<!--        &copy; 2024 Dongwei  Sun-->
+<!--        &thinsp; &#67871; &thinsp; <a href="https://www.silviofanzon.com/contact/">Contact</a> &thinsp; &#67871; &thinsp;-->
+<!--        Updated: 07/2024-->
+<!--      </div>-->
+<!--    </footer>-->
+
+
     
     <footer class="fixed-bottom text-center">
       <div class="container mt-0" style="font-size: 0.82rem;">
-        &copy; 2024 Dongwei  Sun   
-        &thinsp; &#67871; &thinsp; <a href="https://www.silviofanzon.com/contact/">Contact</a> &thinsp; &#67871; &thinsp;
+        &copy; 2024 Dongwei  Sun
+        &thinsp; &#67871; &thinsp;
+        <!-- 这里是删除的链接 -->
         Updated: 07/2024
       </div>
     </footer>
+    
+
 
 
     <footer class="sticky-bottom mt-5 text-center">
@@ -1337,7 +1347,7 @@
 <a href="https://github.com/sundongwei" title="GitHub" style="margin-right: 10px;"><i class="fab fa-github-square"></i></a>
 <a href="https://scholar.google.com/citations?user=dqF0XkYAAAAJ" title="Google Scholar" style="margin-right: 10px;"><i class="ai ai-google-scholar-square"></i></a>
 <a href="https://orcid.org/0009-0005-8541-7837" title="ORCID" style="margin-right: 10px;"><i class="ai ai-orcid-square"></i></a>
-<a href="https://arxiv.org/a/sundongwei" title="arXiv" style="margin-right: 10px;"><i class="ai ai-arxiv-square"></i></a>
+<a href="https://arxiv.org/a/0009-0005-8541-7837" title="arXiv" style="margin-right: 10px;"><i class="ai ai-arxiv-square"></i></a>
 
 
 
@@ -1376,7 +1386,7 @@
       <a href="https://orcid.org/0009-0005-8541-7837">ORCID</a>
       <br>
       <i class="ai ai-arxiv" style="font-size: 1.2em;"></i> &thinsp;
-      <a href="https://arxiv.org/a/sundongwei">arXiv</a> 
+      <a href="https://arxiv.org/a/0009-0005-8541-7837">arXiv</a> 
       --> 
 
     <!-- JavaScripts -->
