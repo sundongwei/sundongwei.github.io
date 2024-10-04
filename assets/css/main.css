@@ -11,7 +11,7 @@
   --global-text-color: #000000;
   --global-text-color-light: #828282;
   --global-theme-color: #cc0164;
-  --global-hover-color: #fe4ea4;
+  --global-hover-color: rgb(254.1341463415, 78.3658536585, 164.0853658537);
   --global-footer-bg-color: #1C1C1D;
   --global-footer-text-color: #e8e8e8;
   --global-footer-link-color: #ffffff;
@@ -21,7 +21,7 @@
   --global-navbar-color: #1C1C1D;
   --global-navbar-text-color: #e8e8e8;
   --global-navbar-active-text-color: #fe459e;
-  --global-navbar-hover-color: #fe78b8;
+  --global-navbar-hover-color: rgb(254.2727272727, 119.7272727273, 184.4545454545);
 }
 :root .fa-sun {
   display: none;
@@ -44,7 +44,7 @@ html[data-theme=dark] {
   --global-text-color: #F5F5F5;
   --global-text-color-light: #F5F5F5;
   --global-theme-color: #32D3D8;
-  --global-hover-color: #59dbdf;
+  --global-hover-color: rgb(88.5635245902, 219.2770491803, 223.3364754098);
   --global-footer-bg-color: #222222;
   --global-footer-text-color: #F5F5F5;
   --global-footer-link-color: #F5F5F5;
@@ -53,7 +53,7 @@ html[data-theme=dark] {
   --global-card-bg-color: #212529;
   --global-navbar-color: #222222;
   --global-navbar-text-color: #F5F5F5;
-  --global-navbar-hover-color: #59dbdf;
+  --global-navbar-hover-color: rgb(88.5635245902, 219.2770491803, 223.3364754098);
   --global-navbar-active-text-color: #32D3D8;
 }
 html[data-theme=dark] .fa-sun {
