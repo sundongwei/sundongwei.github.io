@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: sundongwei[at]outlook.com/sundongwei[at]stu.xjtu.edu.cn
+subtitle: sundongwei[at]outlook.com / sundongwei[at]stu.xjtu.edu.cn
 
 profile:
   align: right
