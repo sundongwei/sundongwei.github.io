@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: A Ph.D. student in computer science at XJTU 
+subtitle: sundongwei[at]outlook.com/sundongwei[at]stu.xjtu.edu.cn
 
 profile:
   align: right
@@ -31,11 +31,11 @@ My name is Dongwei Sun(孙冬伟), a Ph.D. candidate in Computer Science and Tec
 </div>
 
 <div markdown="1" style="text-align: justify;">
-My research interests primarily focus on remote sensing/Medical image processing and multimodal machine learning.
+My research interests primarily focus on Remote sensing/Medical image processing and multimodal machine learning.
 </div>
 
 <div markdown="1" style="text-align: justify;">
 Prior to joining Xi'an Jiaotong University, I obtained a Master's degree in Computational Mathematics from Northwestern Polytechnical University, 
-I worked at a research institute for two years, focusing on the design and deployment of AI algorithms tailored to specific tasks and scenarios.
+I worked at a research institute for more than two years, focusing on the design and deployment of AI algorithms tailored to specific tasks and scenarios.
 </div>
 
