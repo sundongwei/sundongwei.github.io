@@ -35,7 +35,7 @@
     <!-- Styles -->
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://sundongwei.github.io/_data/cv.yml">
+    <link rel="canonical" href="https://sundongwei.github.io/sdw0-CV.pdf">
     
     <!-- Dark Mode -->
     
@@ -82,7 +82,7 @@
                 <a class="nav-link" href="/publications/">Publications</a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="/_data/cv.yml">Curriculum Vitae<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="/sdw0-CV.pdf">Curriculum Vitae<span class="sr-only">(current)</span></a>
               </li>
 
               <!-- Toogle theme mode -->
