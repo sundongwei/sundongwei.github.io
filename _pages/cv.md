@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /_data/cv.yml
+permalink: /sdw0-CV.pdf
 title: Curriculum Vitae
 description:
 nav: true
