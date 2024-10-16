@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /
+permalink: /_data/cv.yml
 title: Curriculum Vitae
 description:
 nav: true
