@@ -1,5 +1,5 @@
 ---
-layout: data
+layout: page
 permalink: /cv.yml
 title: Curriculum Vitae
 description:
