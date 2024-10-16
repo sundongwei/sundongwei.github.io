@@ -108,19 +108,213 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <!-- page.html -->
+      <!-- _layouts/cv.html -->
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Curriculum Vitae</h1>
-            <h5 class="post-description"></h5>
+            <h1 class="post-title">Curriculum Vitae </h1>
+            <p class="post-description"></p>
           </header>
 
           <article>
+          
+         
+
+            <div class="cv">
+              
+              
+                <div class="card mt-3 p-3">
+                  <h3 class="card-title font-weight-medium">General Information</h3>
+                  <div>
+                  
+                    <table class="table table-sm table-borderless table-responsive">
+    
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"><b>Full Name</b></td>
+        <td class="p-1 pl-2 font-weight-light text">Sun Dongwei</td>
+      </tr>
+    
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"><b>Currently</b></td>
+        <td class="p-1 pl-2 font-weight-light text">Ph.D candidate in Computer Science</td>
+      </tr>
+    
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"><b>Institution</b></td>
+        <td class="p-1 pl-2 font-weight-light text">Xi'an Jiaotong Univeristy, China</td>
+      </tr>
+    
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"><b>Email</b></td>
+        <td class="p-1 pl-2 font-weight-light text">sundogwei[at]outlook.com</td>
+      </tr>
+    
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"><b>Website</b></td>
+        <td class="p-1 pl-2 font-weight-light text"><a href = "https://sundongwei.github.io/">sundongwei.com</a></td>
+      </tr>
+    
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"><b>Orcid</b></td>
+        <td class="p-1 pl-2 font-weight-light text"><a href = "https://orcid.org/0009-0005-8541-7837">0009-0005-8541-7837</a></td>
+      </tr>
+    
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"><b>Full CV</b></td>
+        <td class="p-1 pl-2 font-weight-light text">Download PDF &nbsp;  <a href = "https://sundongwei.github.io/assets/pdf/sdw-CV.pdf"><i class="fas fa-file-pdf"></i></a></td>
+      </tr>
+    
+</table>
+                  
+                  </div>
+                </div>
+              
+                <div class="card mt-3 p-3">
+                  <h3 class="card-title font-weight-medium">Research Interests</h3>
+                  <div>
+                  
+                    <table class="table table-sm table-borderless table-responsive">
+    
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"><b>Image Processing</b></td>
+        <td class="p-1 pl-2 font-weight-light text">Remote sensing / Medical image processing</td>
+      </tr>
+    
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"><b>Applications</b></td>
+        <td class="p-1 pl-2 font-weight-light text">CUDA, TensorRT...</td>
+      </tr>
+    
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"><b>Other</b></td>
+        <td class="p-1 pl-2 font-weight-light text">Distribution...</td>
+      </tr>
+    
+</table>
+                  
+                  </div>
+                </div>
+              
+                <div class="card mt-3 p-3">
+                  <h3 class="card-title font-weight-medium">Education</h3>
+                  <div>
+                  
+                   <ul class="card-text font-weight-light list-group list-group-flush">
+    
+      <li class="list-group-item">
+        <div class="row">
+          
+            <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
+                2024-Now
+              </span>
+            </div>
+          
+          <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
+            
+            <h6 class="title font-weight-bold ml-1 ml-md-4">PhD in Computer Science</h6>
+            
+            
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">Xi'an Jiaotong University, China</h6>
+            
+            
+            
+          </div>
+        </div>
+      </li>
+    
+      <li class="list-group-item">
+        <div class="row">
+          
+            <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
+                2018-2021
+              </span>
+            </div>
+          
+          <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
+            
+            <h6 class="title font-weight-bold ml-1 ml-md-4">MSc in Mathematics</h6>
+            
+            
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">Northwestern Polytechnical University, China</h6>
+            
             
 
-          </article>
+            <details class="ml-1 ml-md-4" style="font-size: 0.95rem;"><summary>Info</summary>
+            
+            <ul class="items">
+                
+                  <li>
+                    
+                      <span class="item">{"Thesis&#58; Dpanet"=>"Dual pooling attention network for semantic segmentation &nbsp;  <a href=\"https://arxiv.org/pdf/2210.05437\"><i class=\"fas fa-external-link-alt\"></i></a>"}</span>
+                    
+                  </li>
+                
+              </ul>
 
+            </details>  
+            
+            
+          </div>
+        </div>
+      </li>
+    
+      <li class="list-group-item">
+        <div class="row">
+          
+            <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
+                2014-2018
+              </span>
+            </div>
+          
+          <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
+            
+            <h6 class="title font-weight-bold ml-1 ml-md-4">BSc in Mathematics</h6>
+            
+            
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">Inner Mongolia University of Technology, China</h6>
+            
+            
+            
+          </div>
+        </div>
+      </li>
+    
+    </ul>
+                  
+                  </div>
+                </div>
+              
+                <div class="card mt-3 p-3">
+                  <h3 class="card-title font-weight-medium">Technical Skills</h3>
+                  <div>
+                  
+                    <table class="table table-sm table-borderless table-responsive">
+    
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"><b>Coding</b></td>
+        <td class="p-1 pl-2 font-weight-light text">C/C++, CUDA, Python, Matlab, Mathematica, R</td>
+      </tr>
+    
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"><b>Teaching</b></td>
+        <td class="p-1 pl-2 font-weight-light text">LaTex, Typst, MS Office</td>
+      </tr>
+    
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"><b>Web/SQL</b></td>
+        <td class="p-1 pl-2 font-weight-light text">Git, HTML, CSS, JavaScript, YAML, Markdown, MySQL</td>
+      </tr>
+    
+</table>
+                  
+                  </div>
+                </div>
+              
+              </div>
+          </article>
         </div>
 
     </div>
