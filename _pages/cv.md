@@ -1,6 +1,7 @@
 ---
 layout: cv
-permalink: /assets/pdf/sdw-CV.pdf
+# permalink: /assets/pdf/sdw-CV.pdf
+permalink: /cv.html
 title: Curriculum Vitae
 description:
 nav: true
