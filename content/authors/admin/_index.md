@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: "/workspaces/sundongwei.github.io/assets/media/icons/custom/email.svg"
+  - icon: "custom/email"
     url: 'mailto:sundongwei@outlook.com'
     label: E-mail Me
   # - icon: brands/x
@@ -49,7 +49,8 @@ profiles:
     url: ''
 
 interests:
-  - Rmote sensing/Medical Image Processing
+  - Remote sensing/Medical Image 
+    Processing
   - Multimodal Machine Learning
 
 education:
