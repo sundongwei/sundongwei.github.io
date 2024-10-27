@@ -3,7 +3,7 @@
 title: Sun Dongwei
 
 # Name pronunciation (optional)
-name_pronunciation: Sun Dongway
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Dongwei
