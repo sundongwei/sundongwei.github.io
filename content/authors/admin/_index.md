@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 孙冬伟
+title: Sun Dongwei
 
 # Name pronunciation (optional)
 name_pronunciation: Sun Dongway
