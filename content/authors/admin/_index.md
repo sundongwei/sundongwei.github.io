@@ -46,7 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0005-8541-7837
   - icon: academicons/arxiv
-    url: ''
+    url: https://arxiv.org/a/0009-0005-8541-7837.html
 
 interests:
   - Remote sensing/Medical Image 
@@ -54,7 +54,7 @@ interests:
   - Multimodal Machine Learning
 
 education:
-  - area: PhD Computer Science
+  - area: Ph.D. Computer Science
     institution: Xi'an Jiaotong University
     date_start: 2024-09-01
     date_end: 2027-07-01
@@ -63,7 +63,7 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MEng Computational Mathematics
+  - area: M.S. Computational Mathematics
     institution: Northwestern Polytechnical University
     date_start: 2018-09-01
     date_end: 2021-04-01
@@ -74,7 +74,7 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Computational Mathematics
+  - area: B.S. Computational Mathematics
     institution: Inner Mongolia University of Technology
     date_start: 2014-09-01
     date_end: 2018-07-01
@@ -187,4 +187,5 @@ awards:
 
 My name is Dongwei Sun(孙冬伟), a Ph.D. candidate in Computer Science and Technology at Xi'an Jiaotong University.
 My research interests primarily focus on remote sensing/Medical image processing and multimodal machine learning.
-Prior to joining Xi'an Jiaotong University, I obtained a Master's degree in Computational Mathematics from Northwestern Polytechnical University, I worked at a research institute for two years, focusing on the design and deployment of AI algorithms tailored to specific tasks and scenarios.
+Prior to joining Xi'an Jiaotong University, I obtained a Master's degree in Computational Mathematics from Northwestern Polytechnical University, 
+I worked at a research institute for two years, focusing on the design and deployment of AI algorithms tailored to specific tasks and scenarios.
