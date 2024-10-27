@@ -137,7 +137,7 @@ skills:
       - name: Swimming
         description: ''
         percent: 60
-        icon: person-swimming
+        icon: person-simple-swim
       - name: Photography
         description: ''
         percent: 60
