@@ -1,4 +1,22 @@
-# 安装DeepStream
+---
+title: 🎉 安装DeepStream
+summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+date: 2024-10-28
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+
+authors:
+  - admin
+  - Ted
+
+tags:
+  - Academic
+  - Hugo Blox
+  - Markdown
+---
 
 ---
 
@@ -16,7 +34,7 @@ sudo ln -s ../libv4l1-videodev.h videodev.h
 
 ---
 
-### 提前下好deepstream6
+### 提前下好deepstream
 
 下载地址：[https://developer.nvidia.com/deepstream-getting-started](https://developer.nvidia.com/deepstream-getting-started)
 
