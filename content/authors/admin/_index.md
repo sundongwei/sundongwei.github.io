@@ -126,6 +126,11 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
+      - name: PyTorch
+        description: ''
+        percent: 80
+        icon: devicon/pytorch
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
