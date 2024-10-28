@@ -117,7 +117,7 @@ skills:
       - name: C/C++
         description: ''
         percent: 70
-        icon: circle-stack
+        icon: devicon/cplusplus
       - name: CUDA
         description: ''
         percent: 60
@@ -125,7 +125,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: devicon/python
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
