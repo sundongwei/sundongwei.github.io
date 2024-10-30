@@ -15,6 +15,7 @@ authors:
 tags:
   - Academic
   - Technology
+  - AI
 ---
 1. **安装**
 
