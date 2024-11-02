@@ -44,7 +44,7 @@ tags:
     2. 进⼊OpenCV Github Release⽹⻚：
 [https://github.com/opencv/opencv/releases](https://github.com/opencv/opencv/releases)
 
-    3. 选择你想要的版本，我选择了最新的4.4.0.  
+    3. 选择你想要的版本，我选择了最新的4.4.0.
 
     ![image.png](https://s2.loli.net/2024/10/30/3hEybwHjJPsXTIG.png)
 
