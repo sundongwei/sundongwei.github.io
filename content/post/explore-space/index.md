@@ -1,5 +1,5 @@
 ---
-title: 🎉 Why explore space?美国航天局回赞比亚修女的信：为什么要探索宇宙？
+title: 🎉 Why explore space?美国航天局回赞比亚修女的信":"为什么要探索宇宙？
 summary: 1970年，赞比亚修女 Mary Jucunda 给 Ernst Stuhlinger 博士写了一封信，他因在火星之旅工程中的原创性研究，成为NASA（美国航空航天局）Marshall 太空航行中心的科学副总监。信中，Mary Jucunda修女问道：目前地球上还有这么多小孩子吃不上饭，他怎么能舍得为远在火星的项目花费数十亿美元。
 
 Stuhlinger 很快给 Jucunda 修女回了信，同时还附带了一张题为“升起的地球”的照片，这张标志性的照片是宇航员William Anders 于1968年 在月球轨道上拍摄的（照片中可以看到月球的地面）。他这封真挚的回信随后由NASA以《为什么要探索宇宙》为标题发表。
@@ -8,7 +8,7 @@ date: 2023-11-03
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Source: Roger Launius, via Gavin Williams; Photo above":" The surface of Mars, taken by Curiosity on August 6th, 2012. Via NASA.'
+  caption":" 'Source":" Roger Launius, via Gavin Williams; Photo above":" The surface of Mars, taken by Curiosity on August 6th, 2012. Via NASA.'
 
 authors:
   - admin
@@ -17,7 +17,6 @@ tags:
   - Humanity
 
 ---
-
 
 May 6, 1970
 1970年5月6日
@@ -69,7 +68,7 @@ You may ask now whether I personally would be in favor of such a move by our gov
 
 要问是否同意政府实施类似的政策，我个人的意见是绝对赞成。我完全不介意每年多付出一点点税款来帮助饥饿的儿童，无论他们身在何处。
 
-I know that all of my friends feel the same way. However, we could not bring such a program to life merely by desisting from making plans for voyages to Mars. On the contrary, I even believe that by working for the space program I can make some contribution to the relief and eventual solution of such grave problems as poverty and hunger on Earth. Basic to the hunger problem are two functions: the production of food and the distribution of food. Food production by agriculture, cattle ranching, ocean fishing and other large-scale operations is efficient in some parts of the world, but drastically deficient in many others. For example, large areas of land could be utilized far better if efficient methods of watershed control, fertilizer use, weather forecasting, fertility assessment, plantation programming, field selection, planting habits, timing of cultivation, crop survey and harvest planning were applied.
+I know that all of my friends feel the same way. However, we could not bring such a program to life merely by desisting from making plans for voyages to Mars. On the contrary, I even believe that by working for the space program I can make some contribution to the relief and eventual solution of such grave problems as poverty and hunger on Earth. Basic to the hunger problem are two functions":" the production of food and the distribution of food. Food production by agriculture, cattle ranching, ocean fishing and other large-scale operations is efficient in some parts of the world, but drastically deficient in many others. For example, large areas of land could be utilized far better if efficient methods of watershed control, fertilizer use, weather forecasting, fertility assessment, plantation programming, field selection, planting habits, timing of cultivation, crop survey and harvest planning were applied.
 
 我相信我的朋友们也会持相同的态度。然而，事情并不是仅靠把去往火星航行的计划取消就能轻易实现的。相对的，我甚至认为可以通过太空项目，来为缓解乃至最终解决地球上的贫穷和饥饿问题作出贡献。解决饥饿问题的关键有两部分：食物的生产和食物的发放。食物的生产所涉及的农业、畜牧业、渔业及其他大规模生产活动在世界上的一些地区高效高产，而在有的地区则产量严重不足。通过高科技手段，如灌溉管理，肥料的使用，天气预报，产量评估，程序化种植，农田优选，作物的习性与耕作时间选择，农作物调查及收割计划，可以显著提高土地的生产效率。
 
@@ -121,8 +120,8 @@ Although our space program seems to lead us away from our Earth and out toward t
 
 尽管我们开展的太空项目研究的东西离地球很遥远，已经将人类的视野延伸至月亮、至太阳、至星球、直至那遥远的星辰，但天文学家对地球的关注，超过以上所有天外之物。太空项目带来的不仅有那些新技术所所提供的生活品质的提升，随着对宇宙研究的深入，我们对地球，对生命，对人类自身的感激之情将越深。太空探索让地球更美好。
 
+![](https":"//mmbiz.qpic.cn/mmbiz_jpg/z9cx7J4WrkU0P4EzfpVibojMBSciaqiaxicTcCgRwlpoYPlVZRLNrYFm3jcmLz7KBbxHMw2MiaqHNClhbOb9sibE0gJw/640?wx_fmt=jpeg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
 
-Earthrise   
 The photograph which I enclose with this letter shows a view of our Earth as seen from Apollo 8 when it orbited the moon at Christmas, 1968. Of all the many wonderful results of the space program so far, this picture may be the most important one. It opened our eyes to the fact that our Earth is a beautiful and most precious island in an unlimited void, and that there is no other place for us to live but the thin surface layer of our planet, bordered by the bleak nothingness of space. Never before did so many people recognize how limited our Earth really is, and how perilous it would be to tamper with its ecological balance. Ever since this picture was first published, voices have become louder and louder warning of the grave problems that confront man in our times":" pollution, hunger, poverty, urban living, food production, water control, overpopulation. It is certainly not by accident that we begin to see the tremendous tasks waiting for us at a time when the young space age has provided us the first good look at our own planet.
 
 随信一块寄出的这张照片，是1968年圣诞节那天阿波罗8号在环月球轨道上拍摄的地球的景象。太空项目所能带来的各种结果中，这张照片也许是其中最可贵的一项。它开阔了人类的视野，让我们如此直观地感受到到地球是广阔无垠的宇宙中如此美丽而又珍贵的孤岛，同时让我们认识到地球是我们唯一的家园，离开地球就是荒芜阴冷的外太空。无论在此之前人们对地球的了解是多么的有限，对于破坏生态平衡的严重后果的认识是多么的不充分。在这张照片公开发表之后，面对人类目前所面临的种种严峻形势，如环境污染、饥饿、贫穷、过度城市化、粮食问题、水资源问题、人口问题等等，号召大家正视这些严重问题的呼声越来越多。人们突然表示出对自身问题的关注，不能说和目前正在进行的这些初期太空探索项目，以及它所带来的对于人类自身家园的全新视角无关。
@@ -143,6 +142,8 @@ Ernst Stuhlinger
 
 Associate Director for Science
 科学副总监
+
+
 
 
 ## Citation 羊说
