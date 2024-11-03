@@ -8,7 +8,7 @@ date: 2023-11-03
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Source: Roger Launius, via Gavin Williams; Photo above: The surface of Mars, taken by Curiosity on August 6th, 2012. Via NASA.'
+  caption: 'Source: Roger Launius, via Gavin Williams; Photo above":" The surface of Mars, taken by Curiosity on August 6th, 2012. Via NASA.'
 
 authors:
   - admin
@@ -22,14 +22,14 @@ tags:
 May 6, 1970
 1970年5月6日
 
-Dear Sister Mary Jucunda:
+Dear Sister Mary Jucunda":"
 亲爱的 Mary Jucunda 修女：
 
 Your letter was one of many which are reaching me every day, but it has touched me more deeply than all the others because it came so much from the depths of a searching mind and a compassionate heart. I will try to answer your question as best as I possibly can.
 
 每天，我都会收到很多类似的来信，但这封对我的触动最深，因为它来自一颗慈悲的饱含探求精神的心灵  。我会尽自己所能来回答你这个问题。
 
-First, however, I would like to express my great admiration for you, and for all your many brave sisters, because you are dedicating your lives to the noblest cause of man: help for his fellowmen who are in need.
+First, however, I would like to express my great admiration for you, and for all your many brave sisters, because you are dedicating your lives to the noblest cause of man":" help for his fellowmen who are in need.
 
 首先，请允许我向你以及你勇敢的姐妹们表达深深的敬意，你们献身于人类最崇高的事业：帮助身处困境的同胞。
 
@@ -45,7 +45,7 @@ The townspeople, however, became angry when they realized that the count was was
 
 然而，镇子上的人得知伯爵在这么一个怪人和他那些无用的玩意儿上花费金钱之后，都很生气，“我们还在受瘟疫的苦”，他们抱怨道，“而他却为那个闲人和他没用的爱好乱花钱！”伯爵听到后不为所动，“我会尽可能地接济大家”，他表示，“但我会继续资助这个人和他的工作，我确信终有一天会有回报。”
 
-Indeed, something very good came out of this work, and also out of similar work done by others at other places: the microscope. It is well known that the microscope has contributed more than any other invention to the progress of medicine, and that the elimination of the plague and many other contagious diseases from most parts of the world is largely a result of studies which the microscope made possible.
+Indeed, something very good came out of this work, and also out of similar work done by others at other places":" the microscope. It is well known that the microscope has contributed more than any other invention to the progress of medicine, and that the elimination of the plague and many other contagious diseases from most parts of the world is largely a result of studies which the microscope made possible.
 
 果不其然，他的工作赢来了丰厚的回报：显微镜。显微镜的发明给医学带来了前所未有的发展，由此展开的研究及其成果，消除了世界上大部分地区肆虐的瘟疫和其他一些传染性疾病。
 
@@ -57,7 +57,7 @@ The situation which we are facing today is similar in many respects. The Preside
 
 我们目前面临类似的问题。美国总统的年度预算共有2000亿美元，这些钱将用于医疗、教育、福利、城市建设、高速公路、交通运输、海外援助、国防、环保、科技、农业以及其他多项国内外的工程。今年，预算中的1.6%将用于探索宇宙，这些花销将用于阿波罗以计划、其他一些涵盖了天体物理学、深空天文学、空间生物学、行星探测工程、地球资源工程的小项目以及空间工程技术。为担负这些太空项目的支出，平均每个年收入10,000美元的美国纳税人需要支付约30美元给太空，剩下的9,970美元则可用于一般生活开支、休闲娱乐、储蓄、别的税项等花销。
 
-You will probably ask now: "Why don't you take 5 or 3 or 1 dollar out of the 30 space dollars which the average American taxpayer is paying, and send these dollars to the hungry children?" To answer this question, I have to explain briefly how the economy of this country works. The situation is very similar in other countries. The government consists of a number of departments (Interior, Justice, Health, Education and Welfare, Transportation, Defense, and others) and the bureaus (National Science Foundation, National Aeronautics and Space Administration, and others). All of them prepare their yearly budgets according to their assigned missions, and each of them must defend its budget against extremely severe screening by congressional committees, and against heavy pressure for economy from the Bureau of the Budget and the President. When the funds are finally appropriated by Congress, they can be spent only for the line items specified and approved in the budget.
+You will probably ask now":" "Why don't you take 5 or 3 or 1 dollar out of the 30 space dollars which the average American taxpayer is paying, and send these dollars to the hungry children?" To answer this question, I have to explain briefly how the economy of this country works. The situation is very similar in other countries. The government consists of a number of departments (Interior, Justice, Health, Education and Welfare, Transportation, Defense, and others) and the bureaus (National Science Foundation, National Aeronautics and Space Administration, and others). All of them prepare their yearly budgets according to their assigned missions, and each of them must defend its budget against extremely severe screening by congressional committees, and against heavy pressure for economy from the Bureau of the Budget and the President. When the funds are finally appropriated by Congress, they can be spent only for the line items specified and approved in the budget.
 
 也许你会问：“为什么不从纳税人为太空支付的30美元里抽出5美元或3美元或是1美元来救济饥饿的儿童呢？”为了回答这个问题，我需要先简单解释一下我们国家的经济是如何运行的，其他国家也是类似的情形。政府由几个部门（如内政部、司法部、卫生部与公众福利部、教育部、运输部、国防部等）和几个机构（国家科学基金会、国家航空航天局等）组成，这些部门和机构根据自己的职能制定相应的年度预算，并严格执行以应对国务委员会的监督，同时还要应付来自预算部门和总统对于其经济效益的压力。当资金最终由国会拨出后，将严格用于经预算批准的计划中的项目。
 
@@ -85,7 +85,7 @@ Let me only remind you of the recent near-tragedy of Apollo 13. When the time of
 
 以最近发生的阿波罗13号事故为例。当宇航员处于关键的大气层再入期时，为了保证通讯畅通，苏联关闭了境内与阿波罗飞船所用频带相同的所有广播通信。同时派出舰艇到太平洋和大西洋海域以备第一时间进行搜救工作。如果宇航员的救生舱降落到俄方舰船附近，俄方人员会像对待从太空返回的本国宇航员一样对他们进行救助。同样，如果俄方的宇宙飞船遇到了类似的紧急情况，美国也一定会毫不犹豫地提供援助。
 
-Higher food production through survey and assessment from orbit, and better food distribution through improved international relations, are only two examples of how profoundly the space program will impact life on Earth. I would like to quote two other examples: stimulation of technological development, and generation of scientific knowledge.
+Higher food production through survey and assessment from orbit, and better food distribution through improved international relations, are only two examples of how profoundly the space program will impact life on Earth. I would like to quote two other examples":" stimulation of technological development, and generation of scientific knowledge.
 
 通过卫星进行监测与分析来提高食品产量，以及通过改善国际关系提高食品发放的效率，只是通过太空项目提高人类生活质量的两个方面。下面我想介绍另外两个重要作用：促进科学技术的发展和提高一代人的科学素养。
 
@@ -93,7 +93,7 @@ The requirements for high precision and for extreme reliability which must be im
 
 .登月工程需要历史上前所未有的高精度和高可靠性。面对如此严苛的要求，我们要寻找新材料，新方法；开发出更好的工程系统；用更可靠的制作流程；让仪器的工作寿命更长久；甚至需要探索全新的自然规律。
 
-All this newly acquired technical knowledge is also available for application to Earth-bound technologies. Every year, about a thousand technical innovations generated in the space program find their ways into our Earthly technology where they lead to better kitchen appliances and farm equipment, better sewing machines and radios, better ships and airplanes, better weather forecasting and storm warning, better communications, better medical instruments, better utensils and tools for everyday life. Presumably, you will ask now why we must develop first a life support system for our moon-travelling astronauts, before we can build a remote-reading sensor system for heart patients. The answer is simple: significant progress in the solutions of technical problems is frequently made not by a direct approach, but by first setting a goal of high challenge which offers a strong motivation for innovative work, which fires the imagination and spurs men to expend their best efforts, and which acts as a catalyst by including chains of other reactions.
+All this newly acquired technical knowledge is also available for application to Earth-bound technologies. Every year, about a thousand technical innovations generated in the space program find their ways into our Earthly technology where they lead to better kitchen appliances and farm equipment, better sewing machines and radios, better ships and airplanes, better weather forecasting and storm warning, better communications, better medical instruments, better utensils and tools for everyday life. Presumably, you will ask now why we must develop first a life support system for our moon-travelling astronauts, before we can build a remote-reading sensor system for heart patients. The answer is simple":" significant progress in the solutions of technical problems is frequently made not by a direct approach, but by first setting a goal of high challenge which offers a strong motivation for innovative work, which fires the imagination and spurs men to expend their best efforts, and which acts as a catalyst by including chains of other reactions.
 
 这些为登月发明的新技术同样可以用于地面上的工程项目。每年，都有大概一千项从太空项目中发展出来的新技术被用于日常生活中，这些技术打造出更好的厨房用具和农场设备，更好的缝纫机和收音机，更好的轮船和飞机，更精确的天气预报和风暴预警，更好的通讯设施，更好的医疗设备，乃至更好的日常小工具。你可能会问为什么先设计出宇航员登月舱的维生系统，而不是先为听力障碍患者造出有声阅读设备呢。答案很简单：解决工程问题时，重要的技术突破往往并不是按部就班直接得到的，而是来自能够激发出强大创新精神，能够燃起的想象力和坚定的行动力，以及能够整合好所有资源的充满挑战的目标。
 
@@ -101,7 +101,7 @@ Spaceflight without any doubt is playing exactly this role. The voyage to Mars w
 
 太空旅行无可置疑地是一项充满挑战的事业。通往火星的航行并不能直接提供食物解决饥荒问题。然而，它所带来大量的新技术和新方法可以用在火星项目之外，这将产生数倍于原始花费的收益。
 
-Besides the need for new technologies, there is a continuing great need for new basic knowledge in the sciences if we wish to improve the conditions of human life on Earth. We need more knowledge in physics and chemistry, in biology and physiology, and very particularly in medicine to cope with all these problems which threaten man's life: hunger, disease, contamination of food and water, pollution of the environment.
+Besides the need for new technologies, there is a continuing great need for new basic knowledge in the sciences if we wish to improve the conditions of human life on Earth. We need more knowledge in physics and chemistry, in biology and physiology, and very particularly in medicine to cope with all these problems which threaten man's life":" hunger, disease, contamination of food and water, pollution of the environment.
 
 若希望人类生活得越来越好，除了需要新的技术，我们还需要基础科学不断有新的进展。包括物理学和化学，生物学和生理学，特别是医学，用来照看人类的健康，应对饥饿、疾病、食物和水的污染以及环境污染等问题。
 
@@ -123,11 +123,11 @@ Although our space program seems to lead us away from our Earth and out toward t
 
 
 Earthrise   
-The photograph which I enclose with this letter shows a view of our Earth as seen from Apollo 8 when it orbited the moon at Christmas, 1968. Of all the many wonderful results of the space program so far, this picture may be the most important one. It opened our eyes to the fact that our Earth is a beautiful and most precious island in an unlimited void, and that there is no other place for us to live but the thin surface layer of our planet, bordered by the bleak nothingness of space. Never before did so many people recognize how limited our Earth really is, and how perilous it would be to tamper with its ecological balance. Ever since this picture was first published, voices have become louder and louder warning of the grave problems that confront man in our times: pollution, hunger, poverty, urban living, food production, water control, overpopulation. It is certainly not by accident that we begin to see the tremendous tasks waiting for us at a time when the young space age has provided us the first good look at our own planet.
+The photograph which I enclose with this letter shows a view of our Earth as seen from Apollo 8 when it orbited the moon at Christmas, 1968. Of all the many wonderful results of the space program so far, this picture may be the most important one. It opened our eyes to the fact that our Earth is a beautiful and most precious island in an unlimited void, and that there is no other place for us to live but the thin surface layer of our planet, bordered by the bleak nothingness of space. Never before did so many people recognize how limited our Earth really is, and how perilous it would be to tamper with its ecological balance. Ever since this picture was first published, voices have become louder and louder warning of the grave problems that confront man in our times":" pollution, hunger, poverty, urban living, food production, water control, overpopulation. It is certainly not by accident that we begin to see the tremendous tasks waiting for us at a time when the young space age has provided us the first good look at our own planet.
 
 随信一块寄出的这张照片，是1968年圣诞节那天阿波罗8号在环月球轨道上拍摄的地球的景象。太空项目所能带来的各种结果中，这张照片也许是其中最可贵的一项。它开阔了人类的视野，让我们如此直观地感受到到地球是广阔无垠的宇宙中如此美丽而又珍贵的孤岛，同时让我们认识到地球是我们唯一的家园，离开地球就是荒芜阴冷的外太空。无论在此之前人们对地球的了解是多么的有限，对于破坏生态平衡的严重后果的认识是多么的不充分。在这张照片公开发表之后，面对人类目前所面临的种种严峻形势，如环境污染、饥饿、贫穷、过度城市化、粮食问题、水资源问题、人口问题等等，号召大家正视这些严重问题的呼声越来越多。人们突然表示出对自身问题的关注，不能说和目前正在进行的这些初期太空探索项目，以及它所带来的对于人类自身家园的全新视角无关。
 
-Very fortunately though, the space age not only holds out a mirror in which we can see ourselves, it also provides us with the technologies, the challenge, the motivation, and even with the optimism to attack these tasks with confidence. What we learn in our space program, I believe, is fully supporting what Albert Schweitzer had in mind when he said: "I am looking at the future with concern, but with good hope."
+Very fortunately though, the space age not only holds out a mirror in which we can see ourselves, it also provides us with the technologies, the challenge, the motivation, and even with the optimism to attack these tasks with confidence. What we learn in our space program, I believe, is fully supporting what Albert Schweitzer had in mind when he said":" "I am looking at the future with concern, but with good hope."
 
 太空探索不仅仅给人类提供一面审视自己的镜子，它还能给我们带来全新的技术，全新的挑战和进取精神，以及面对严峻现实问题时依然乐观自信的心态。我相信，人类从宇宙中学到的，充分印证了Albert Schweitzer 那句名言：“我忧心忡忡地看待未来，但仍满怀美好的希望。”
 
