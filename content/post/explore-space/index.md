@@ -6,7 +6,7 @@ date: 2023-11-03
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Roger Launius, via Gavin Williams; Photo above:' The surface of Mars, taken by Curiosity on August 6th, 2012. Via NASA.'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
   - admin
