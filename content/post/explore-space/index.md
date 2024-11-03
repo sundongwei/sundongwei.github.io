@@ -117,7 +117,7 @@ Although our space program seems to lead us away from our Earth and out toward t
 
 尽管我们开展的太空项目研究的东西离地球很遥远，已经将人类的视野延伸至月亮、至太阳、至星球、直至那遥远的星辰，但天文学家对地球的关注，超过以上所有天外之物。太空项目带来的不仅有那些新技术所所提供的生活品质的提升，随着对宇宙研究的深入，我们对地球，对生命，对人类自身的感激之情将越深。太空探索让地球更美好。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/z9cx7J4WrkU0P4EzfpVibojMBSciaqiaxicTcCgRwlpoYPlVZRLNrYFm3jcmLz7KBbxHMw2MiaqHNClhbOb9sibE0gJw/640?wx_fmt=jpeg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
+![640.jpg](https://s2.loli.net/2024/11/03/i6aqvf2ynEUR1cz.jpg)
 
 The photograph which I enclose with this letter shows a view of our Earth as seen from Apollo 8 when it orbited the moon at Christmas, 1968. Of all the many wonderful results of the space program so far, this picture may be the most important one. It opened our eyes to the fact that our Earth is a beautiful and most precious island in an unlimited void, and that there is no other place for us to live but the thin surface layer of our planet, bordered by the bleak nothingness of space. Never before did so many people recognize how limited our Earth really is, and how perilous it would be to tamper with its ecological balance. Ever since this picture was first published, voices have become louder and louder warning of the grave problems that confront man in our times: pollution, hunger, poverty, urban living, food production, water control, overpopulation. It is certainly not by accident that we begin to see the tremendous tasks waiting for us at a time when the young space age has provided us the first good look at our own planet.
 
