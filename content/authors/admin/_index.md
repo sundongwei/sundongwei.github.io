@@ -190,13 +190,13 @@ awards:
 
 ## About Me
 
-<div markdown="1" style="text-align: justify;">
-My name is Dongwei Sun(孙冬伟), a Ph.D. candidate in Computer Science and Technology at Xi'an Jiaotong University.
+<div markdown="1" style="font-family: 'Georgia', serif; line-height: 1.6; font-size: 1.1rem; text-align: justify; margin-bottom: 1.5rem;">
+  <p><strong>My name is Dongwei Sun (孙冬伟)</strong>, a Ph.D. candidate in Computer Science and Technology at Xi'an Jiaotong University.</p>
 </div>
-<div markdown="1" style="text-align: justify;">
-My research interests primarily focus on Remote sensing/Medical image processing and multimodal machine learning.
+<div markdown="1" style="font-family: 'Georgia', serif; line-height: 1.6; font-size: 1.1rem; text-align: justify; margin-bottom: 1.5rem;">
+  <p><strong>My research interests</strong> primarily focus on <em>Remote Sensing/Medical Image Processing</em> and <em>Multimodal Machine Learning</em>.</p>
 </div>
-<div markdown="1" style="text-align: justify;">
-Prior to joining Xi'an Jiaotong University, I obtained a Master's degree in Computational Mathematics from Northwestern Polytechnical University, 
-I worked at a research institute for more than two years, focusing on the design and deployment of AI algorithms tailored to specific tasks and scenarios.
+<div markdown="1" style="font-family: 'Georgia', serif; line-height: 1.6; font-size: 1.1rem; text-align: justify;">
+  <p>Prior to joining Xi'an Jiaotong University, I obtained a Master's degree in Computational Mathematics from Northwestern Polytechnical University. I also worked at a research institute for more than two years, focusing on the design and deployment of AI algorithms tailored to specific tasks and scenarios.</p>
 </div>
+

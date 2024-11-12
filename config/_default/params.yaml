@@ -39,7 +39,6 @@ header:
 
 # Site footer
 footer:
-  {{ partial "clustrmaps.html" . }}
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
