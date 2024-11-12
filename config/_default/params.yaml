@@ -39,6 +39,7 @@ header:
 
 # Site footer
 footer:
+  {{ partial "clustrmaps.html" . }}
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
@@ -56,9 +57,5 @@ locale:
 features:
   math:
     enable: true
-  map:
-    provider: 'mapnik'
-    api_key: ''
-    zoom: 15
   privacy_pack:
     enable: false
