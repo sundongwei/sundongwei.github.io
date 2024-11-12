@@ -19,7 +19,8 @@ mounts:
   - source: hugo-blox/blox
     target: assets/dist/community/blox/
     includeFiles: '**.css'
-  - source: layouts
-    target: layouts
+  - source: google_analytics
+    target: layouts/partials/
+    includeFiles: 'analytics.html'
   - source: assets
     target: assets
