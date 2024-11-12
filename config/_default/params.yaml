@@ -55,6 +55,10 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
   privacy_pack:
     enable: false
