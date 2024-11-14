@@ -197,6 +197,6 @@ awards:
   <p><strong>My research interests</strong> primarily focus on <em>Remote Sensing/Medical Image Processing</em> and <em>Multimodal Machine Learning</em>.</p>
 </div>
 <div markdown="1" style="font-family: 'Georgia', serif; line-height: 1.6; font-size: 1.1rem; text-align: justify;">
-  <p>Prior to joining Xi'an Jiaotong University, I obtained a Master's degree in Computational Mathematics from Northwestern Polytechnical University. I also worked at a research institute for more than two years, focusing on the design and deployment of AI algorithms tailored to specific tasks and scenarios.</p>
+  <p>Prior to joining Xi'an Jiaotong University, I obtained a Master's degree in Computational Mathematics from Northwestern Polytechnical University. I have worked in industry for more than two years, focusing on the design and deployment of AI algorithms tailored to specific tasks and scenarios.</p>
 </div>
 
