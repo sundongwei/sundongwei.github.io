@@ -191,7 +191,7 @@ awards:
 ## About Me
 
 <div markdown="1" style="font-family: 'Georgia', serif; line-height: 1.6; font-size: 1.1rem; text-align: justify; margin-bottom: 1.5rem;">
-  <p><strong>My name is Dongwei Sun (孙冬伟)</strong>, a Ph.D. candidate in Computer Science and Technology at Xi'an Jiaotong University.</p>
+  <p><strong>My name is Dongwei Sun (孙冬伟)</strong>, a Ph.D. candidate in Computer Science and Technology at Xi'an Jiaotong University. Contact me plz: sundongwei[at]outlook.com</p>
 </div>
 <div markdown="1" style="font-family: 'Georgia', serif; line-height: 1.6; font-size: 1.1rem; text-align: justify; margin-bottom: 1.5rem;">
   <p><strong>My research interests</strong> primarily focus on <em>Remote Sensing/Medical Image Processing</em> and <em>Multimodal Machine Learning</em>.</p>
