@@ -1,6 +1,6 @@
 ---
 title: 🧠 记录并行训练并且定制一份自己特色的代码
-summary: 'PyTorch DDP training'.
+summary: PyTorch DDP training.
 date: 2024-12-03
 authors:
   - admin
