@@ -6,8 +6,8 @@ authors:
 - Changsheng Zhou
 - Xiangyong Cao
 - Pedram Ghamisi
-date: '2025-01-01'
-publishDate: '2025-02-27T11:03:40.926684Z'
+date: '2025-02-16'
+publishDate: '2025-02-16'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Geoscience and Remote Sensing*'
