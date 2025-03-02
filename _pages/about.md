@@ -19,7 +19,7 @@ redirect_from:
 
 🔥News
 ------
-- 
+- **2024.10:** A Lightweight Sparse Focus Transformer for Remote Sensing Image Change Captioning is accepted by **JSTARS**.
 - **2020.04:** Active contours driven by Gaussian function and adaptive-scale local correntropy-based K-means clustering for fast image segmentation is accepted by **Signal Processing**.
 
 📖Educations
