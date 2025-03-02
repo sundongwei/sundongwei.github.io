@@ -20,6 +20,7 @@ redirect_from:
 🔥News
 ------
 - 2020.04 Active contours driven by Gaussian function and adaptive-scale local correntropy-based K-means clustering for fast image segmentation is accepted by Signal Processing.
+
 📖Educations
 ------
 - 2024.09 - Now, Ph.D., Xi'an Jiaotong University, Xi'an, China.
