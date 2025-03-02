@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +19,8 @@ redirect_from:
 
 🔥News
 ------
-- 2020.04 Active contours driven by Gaussian function and adaptive-scale local correntropy-based K-means clustering for fast image segmentation is accepted by Signal Processing.
+- 
+- **2020.04:** Active contours driven by Gaussian function and adaptive-scale local correntropy-based K-means clustering for fast image segmentation is accepted by **Signal Processing**.
 
 📖Educations
 ------
