@@ -31,13 +31,12 @@ redirect_from:
 
 🏅Honors and Awards
 ------
-- 2022, The Outstanding Novice Employee Award [Top 3%].  
-- 2021, Intelligent UAV Racing Championship [Third Prize].  
+- 2022, The Outstanding Novice Employee Award [Top 3%].
+- 2021, Intelligent UAV Racing Championship [Third Prize].
 - 2018 & 2019, Major Award.  
-- 2018, Excellent Graduate.  
+- 2018, Excellent Graduate.
 
 📑Professional Services
-------
-- DeepGlint Technology Co., Ltd, Internship, 2020.11 - 2021.04.  
+------ 
 - Chinese Conference on Pattern Recognition and Computer Vision (PRCV), Reviewer.  
 - IEEE Transactions on Instrumentation & Measurement, Reviewer.  
