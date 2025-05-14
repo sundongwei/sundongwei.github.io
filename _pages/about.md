@@ -19,6 +19,8 @@ redirect_from:
 
 🔥News
 ------
+- **2025.05:** Change Captioning in Remote Sensing: Evolution to SAT-Cap–A Single-Stage Transformer Approach is Realeased.
+- **2025.03:** Mask Approximation Net A Novel Diffusion Model Approach for Remote Sensing Change Captioning is Realeased.
 - **2024.10:** A Lightweight Sparse Focus Transformer for Remote Sensing Image Change Captioning is accepted by **JSTARS**.
 - **2020.04:** Active contours driven by Gaussian function and adaptive-scale local correntropy-based K-means clustering for fast image segmentation is accepted by **Signal Processing**.
 
