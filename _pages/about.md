@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "![alt text](image-1.png)About Me"
+title: "👨🏻‍🎓About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,7 @@ redirect_from:
   <p>Prior to joining Xi'an Jiaotong University, I obtained a Master's degree in Computational Mathematics from Northwestern Polytechnical University. I have worked in industry for more than two years, focusing on the design and deployment of AI algorithms tailored to specific tasks and scenarios.</p>
 </div>
 
-🔥News
+🎉News
 ------
 - **2025.07:** Mask Approximation Net is accepted by TGRS.
 - **2025.05:** Change Captioning in Remote Sensing: Evolution to SAT-Cap–A Single-Stage Transformer Approach is Realeased.
