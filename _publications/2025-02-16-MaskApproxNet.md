@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-02-16-mask-approximation-net-a-novel-diffusion-model-approach-for-remote-sensing-change-captioning
 excerpt: 'This paper proposes a mask approximation network using a novel diffusion model approach for remote sensing change captioning.'
 date: 2025-02-16
-venue: 'IEEE Transactions on Geoscience and Remote Sensing (Under Reviewing)'
+venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 slidesurl: ''
 paperurl: 'https://arxiv.org/pdf/2412.19179'
 citation: 'Dongwei Sun, Jing Yao, Changsheng Zhou, Xiangyong Cao, Pedram Ghamisi. (2025). &quot;Mask Approximation Net A Novel Diffusion Model Approach for Remote Sensing Change Captioning.&quot; <i>IEEE Transactions on Geoscience and Remote Sensing</i>.'
